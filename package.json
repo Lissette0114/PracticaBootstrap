@@ -1,0 +1,28 @@
+{
+  "name": "java",
+  "version": "1.0.0",
+  "description": "primer proyecto",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/pruebaslj/proyectosjava.git"
+  },
+  "author": "Lissette Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/pruebaslj/proyectosjava/issues"
+  },
+  "homepage": "https://bitbucket.org/pruebaslj/proyectosjava#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "jquery": "^3.7.0",
+    "popper": "^1.0.1"
+  }
+}

@@ -1,0 +1,21 @@
+.jumbotron{
+    background-color: rgb(150, 240, 235);
+    color:  grey;
+
+}
+
+footer{
+    padding: 10px 10px 0 10px;
+    background-color: rgb(150, 240, 235);
+    margin-bottom: 4px;
+    margin-top: 2px;
+}
+
+.card-peli{
+    flex: 1 250px;
+    padding: 2px 5px 2px 5px;
+}
+
+.btn-ver{
+    width: 100%;
+}
